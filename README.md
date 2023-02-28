@@ -11,3 +11,6 @@ python == 3.8.0
 pytorch == 1.10.1
 
 **Installation**
+pip install -r requirement.txt
+
+**Usage
