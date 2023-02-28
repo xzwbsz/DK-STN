@@ -5,4 +5,9 @@ Understanding and predicting the Madden-Julian Oscillation (MJO) is fundamental 
 
 This project shows the code of our MJO prediction with domain knowledge embedded spatio-temporal network model.
 
+##Requirements
 
+python == 3.8.0
+pytorch == 1.10.1
+
+##Install
