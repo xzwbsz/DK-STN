@@ -4,6 +4,8 @@ A Domain Knowledge Embedded Spatio-Temporal Network Model for MJO Forecast
 Understanding and predicting the Madden-Julian Oscillation (MJO) is fundamental for forecasting precipitation and preventing disasters. To date, long-term and accurate MJO prediction has been a pending problem for researchers.
 
 This project shows the code of our MJO prediction with domain knowledge embedded spatio-temporal network model.
+![image](https://github.com/xzwbsz/DK-STN/assets/44642002/7a1e8b89-fa79-4126-a6a2-96cbd5c25efd)
+
 
 ## Requirements
 
