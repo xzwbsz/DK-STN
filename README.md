@@ -26,3 +26,4 @@ The train.py carried out the training of the model (DK-STN), while the testing o
 ## Update(2023.05.05)
 
 The previous test set had too few cases, so we expanded the test set (i.e., 2019.09.01 to 2023.04.18) and reran the test while ensuring that the predictions were not affected, and the results remained at 25 to 26 days.
+![image](https://github.com/xzwbsz/DK-STN/assets/44642002/f672b29c-7c6d-4739-b391-6ab6d311c6da)
